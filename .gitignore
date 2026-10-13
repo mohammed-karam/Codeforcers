@@ -46,3 +46,7 @@ app.*.map.json
 
 # Widget Preview related
 .widget_preview/
+
+/lib/core/utils/constants.dart
+/lib/core/utils/api_service.dart
+/lib/core/utils/url_finder.dart
